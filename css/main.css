@@ -62,6 +62,9 @@ footer {
   header {
     background-color: black ;
   }
+  .col-3 {
+      width: 50%;
+  }
 
   #column-1 {
     background-color: deeppink;
@@ -86,6 +89,9 @@ footer {
 @media (min-width: 1200px) {
   header {
     background-color: limegreen;
+  }
+  .col-3 {
+      width: 33.33%
   }
 
   #column-1 {
